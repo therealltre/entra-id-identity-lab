@@ -139,10 +139,6 @@ Users can reset passwords without IT support.
 
 ![MFA Policy](screenshots/mfa-policy.png)
 
-## Location Policy
-
-![Location Policy](screenshots/location-policy.png)
-
 ---
 
 # 🎯 Learning Outcomes
