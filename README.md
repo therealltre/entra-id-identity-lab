@@ -71,7 +71,7 @@ Administrative users must verify identity using MFA before accessing resources.
 
 # 🌍 Location-Based Access Control
 
-Conditional Access policy was created to restrict login locations.
+Conditional Access policy was created to restrict login locations (Named Locations/IP).
 
 ## Policy Configuration
 
